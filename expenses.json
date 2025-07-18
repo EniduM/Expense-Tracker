@@ -1,0 +1,20 @@
+[
+    {
+        "amount": 1.0,
+        "category": "food",
+        "note": "lunch",
+        "date": "2025-11-23"
+    },
+    {
+        "amount": 2.0,
+        "category": "Loan",
+        "note": "Housing",
+        "date": "2025-06-07"
+    },
+    {
+        "amount": 200.0,
+        "category": "maintenance",
+        "note": "housing",
+        "date": "2025-11-23"
+    }
+]
